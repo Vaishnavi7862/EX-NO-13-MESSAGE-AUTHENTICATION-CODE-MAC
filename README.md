@@ -84,8 +84,7 @@ int main() {
 ```
 
 ## Output:
-<img width="930" height="445" alt="image" src="https://github.com/user-attachments/assets/6974ecb1-2cfe-4c74-9d5f-7e1294fe7aaf" />
-
+<img width="1920" height="1200" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/4a7279f0-7429-4271-8df2-7a06ac747956" />
 
 ## Result:
 The program is executed successfully.
